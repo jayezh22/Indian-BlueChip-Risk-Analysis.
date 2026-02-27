@@ -32,5 +32,8 @@ The analysis was performed using Excel/Google Sheets and follows these steps:
 - `README.md`: Project documentation and executive summary.
 
 ---
-**Author:** [Jayesh Chandekar]  
+**Author:** Jayesh Chandekar
 **Tools Used: Google Sheets, Excel, Financial Modeling, Quantitative Analysis
+
+<img width="1149" height="489" alt="Screenshot 2026-02-27 205218" src="https://github.com/user-attachments/assets/66fa66bc-0448-4431-b0d0-3d1966817a5a" />
+
